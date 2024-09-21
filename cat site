@@ -1,0 +1,31 @@
+<html>
+ <h1>The Cat Site</h1>   
+<table style="border:3px solid #e59afe;border-collapse:collapse;">
+ <tr>
+  <td style="background-color:#ffa6d4">Breed</td>  
+  <td style="background-color:#b3d1fe">Up to how much they can live</td>
+  <td style="background-color:#ffa6d4">Weight</td>
+ </tr> 
+ <tr>
+  <td style="background-color:#CEEDB6">Sphynx</td>
+  <td style="background-color:#ffe799">8 to 14 years</td>
+  <td style="background-color:#CEEDB6">4.5-5.4 kg</td>
+ </tr>
+ <tr>
+  <td style="background-color:#b3d1fe">Burmese cat</td>
+  <td style="background-color:#ffa6d4">2.7-6.4 kg</td>
+  <td style="background-color:#b3d1fe">10-16 years</td>
+ </tr>
+ <tr>
+  <td style="background-color:#ffe799">Persian cat</td>
+  <td style="background-color:#CEEDB6">3.2-5.4 kg</td>
+  <td style="background-color:#ffe799">12 to 18 years</td>
+ </tr>
+ <tr>
+  <td><img src="https://scontent-muc2-1.xx.fbcdn.net/v/t39.30808-6/241740730_392483045567421_703160124203707420_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=8yeJmU8K8hEQ7kNvgGH1ua-&_nc_ht=scontent-muc2-1.xx&oh=00_AYDND6EPnRMFg4LxgapD-21QlODBR9YesG2M15Ie-1blgg&oe=66EA4EA0" style="width:200px;length:200px"></td>
+  <td><img src="https://st1.latestly.com/wp-content/uploads/2021/08/31-6-784x441.jpg" style="width:250px;length:250px"></td>
+  <td><img src="https://i.pinimg.com/564x/db/96/b8/db96b885d84f7305016d0a5cb5eeee91.jpg" style="width:200px;length:100px"></td>
+ </tr>   
+</table>
+<h4>Thank you for visiting the site!</h4>
+</html>    
